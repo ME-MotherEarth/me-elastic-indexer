@@ -1,0 +1,10 @@
+{
+  "roles": {
+    "MECTRoleNFTCreate": [
+      "6d792d61646472657373"
+    ],
+    "MECTRoleNFTBurn": [
+      "6d792d61646472657373"
+    ]
+  }
+}
